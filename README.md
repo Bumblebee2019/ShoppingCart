@@ -4,6 +4,7 @@ I decided to learn MVC by creating a simple shopping cart program, where the use
 
 This is how I organized my project:
 ![](Diagrams/Pic1.png)
+
 Here are a few screenshots to show user interaction with the program:
 ![](Diagrams/Pic2.png)
 
