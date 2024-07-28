@@ -3,6 +3,7 @@
 I decided to learn MVC by creating a simple shopping cart program, where the user writes an item description and chooses the number of items to add to cart. Also, the user can edit item number and descrition, as well as delete an item. The user sees the total price for all items. All changes are written to an Entity Framework DB. MVC is a great design pattern for programs that call for separation of concerns. Model is responsible for data management and interaction with the database. View represents the UI. Controller handles user input and interacts with the Model to update the View.
 
 This is how I organized my project:
+
 ![](Diagrams/Pic1.png)
 
 Here are a few screenshots to show user interaction with the program:
